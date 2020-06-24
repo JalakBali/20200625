@@ -1,2 +1,2 @@
 # 20200625
-memulai GitHub
+perubahan kode dilacak oleh Git
