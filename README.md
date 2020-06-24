@@ -1,2 +1,2 @@
 # 20200625
-corona
+memulai GitHub
